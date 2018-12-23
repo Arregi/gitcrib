@@ -1,3 +1,3 @@
-#git init
+# git init
 
-Initializes a new empty repository.
+Create an empty Git repository or reinitialize an existing one.
