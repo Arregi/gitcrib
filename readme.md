@@ -2,6 +2,7 @@
 
 ### This is a git command cheatsheet in markdown format
 
+---
 ### How to use it
 Each file is named after a git command, the template provides information on how the file sections are structured so you can use it to easily add more commands to the project. 
 
@@ -11,6 +12,7 @@ Github automatically orders files alphabetically so there is no need for an inde
 
 I am planning on separating porcelain commands from plumbing commands in different branches, let me know what you think about this.
 
+---
 ### Why?
 There is plenty of cheatsheets out there so why?
 
@@ -18,7 +20,7 @@ There is plenty of cheatsheets out there so why?
 * I wanted to try another structure for a cheatsheet.
 * You can clone this repository and use cat filename.md from within your preferred terminal.
 
-
+---
 ### Version
 
 I am now using git 2.7.2.windows.1 so all of the testing is done with this version of git.
