@@ -1,4 +1,4 @@
-﻿`git diff`
+`git diff`
 ---
 Show changes between commits, commit and working tree, etc. (Returns nothing if there is no differences).
 
