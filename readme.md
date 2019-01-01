@@ -17,3 +17,8 @@ There is plenty of cheatsheets out there so why?
 * Man pages do not take advantage of syntax highlighting.
 * I wanted to try another structure for a cheatsheet.
 * You can clone this repository and use cat filename.md from within your preferred terminal.
+
+
+### Version
+
+I am now using git 2.7.2.windows.1 so all of the testing is done with this version of git.
